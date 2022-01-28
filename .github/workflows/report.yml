@@ -13,8 +13,8 @@ jobs:
     - name: Health Report
       uses: Editst/SYSU-HealthReport@master
       with:
-        netid: ${{secrets.NETID}}
-        password: ${{secrets.PASSWORD}}
-        ocr_token: ${{secrets.OCR_TOKEN}}
+        netid: ${{secrets.lirz6}}
+        password: ${{secrets.MAXwell1!}}
+        ocr_token: ${{secrets.Fs1LJ6KVwzLMnGnQSUMBkhc9xtbs}}
         tg_bot_token: ${{secrets.TG_BOT_TOKEN}}
         tg_chatid: ${{secrets.TG_CHATID}}
